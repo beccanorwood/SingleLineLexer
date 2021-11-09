@@ -19,4 +19,4 @@ Int_literal: integers
 Float_literal: floats 
 
 
-String_literal: strings.
+String_literal: strings
