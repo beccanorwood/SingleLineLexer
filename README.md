@@ -20,6 +20,3 @@ Float_literal: 	only float
 
 
 String_literal:	only strings.
-
-
-These values are read in from a user and parsed through on the backend to determine what token category they fall under. 
