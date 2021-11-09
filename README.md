@@ -13,10 +13,10 @@ Separators: (	)	:	“	“	;
 Identifiers: letters, or letters followed by digits
 
 
-Int_literal: only integers
+Int_literal: integers
 
 
-Float_literal: 	only float 
+Float_literal: floats 
 
 
-String_literal:	only strings.
+String_literal: strings.
